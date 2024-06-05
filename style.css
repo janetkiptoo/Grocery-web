@@ -1,0 +1,112 @@
+
+  
+
+  .navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 14px;
+    background-color: papayawhip;
+    
+  }
+ .icon-fruits{
+    background-image: url('./images/fruits.png');
+  }
+  .icon-vegetables{
+    background-image: url('images/vegetables.png');
+  }
+  .icon-cereals{
+    background-image: url('images/wheat-sack.png');
+  }
+  
+  .icon-orange{
+    background-image: url('./images/orange.png');
+  }
+  .icon-strawberry{
+    background-image:url('./images/strawberry.png') ;
+  }
+  .icon-avocado{
+    background-image:url('/images/avocado.png') ;
+  }
+  .icon-apple{
+    background-image: url('images/apple.png');
+  }
+  .icon-mango{
+    background-image:url('images/mango.png') ;
+  }
+  .icon-watermelon{
+    background-image: url('images/watermelon.png');
+  }
+  .icon-okra{
+    background-image: url('images/okra.png');
+  }
+  .icon-spinach{
+    background-image:url('images/spinach.png') ;
+  }
+  .icon-peas{
+    background-image: url('images/peas.png');
+  }
+  .icon-onion{
+    background-image: url('images/onion.png');
+  }
+  .icon-carrot{
+    background-image: url('images/carrot.png');
+  }
+  .icon-potato{
+    background-image: url('images/potato.png');
+  }
+.icon-corn{
+  background-image: url('images/corn.png');
+}
+.icon-rice{
+  background-image: url('images/rice.png');
+}
+.icon-wheat{
+  background-image: url('images/wheat.png');
+}
+
+
+  .card h2 {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
+  .card p {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+
+  .icon{
+    width: 32px;
+    height: 32px;
+    background-size: cover;
+    display: inline-block;
+  }
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .card {
+    width: 30%;
+    margin: 16px;
+    max-width: 300px;
+    text-align: center;
+    background-color:peachpuff ;
+  
+    transition: 0.3s;
+    border: 1px solid;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgb(red, green, blue);
+    padding: 16px;
+  }
+
+
+
+form{
+  background-color: paleturquoise;
+  
+}
+
+  
